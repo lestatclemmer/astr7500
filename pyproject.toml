@@ -8,4 +8,6 @@ dependencies = [
     "astropy>=7.2.0",
     "notebook",
     "ipykernel",
+    "scipy>=1.17.0",
+    "matplotlib>=3.10.8",
 ]
